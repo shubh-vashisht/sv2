@@ -1,0 +1,48 @@
+.contactContainer {
+  background: url("../../images/15.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+
+.contactContainer h1 {
+  font-size: 200px;
+  position: relative;
+  top: -22vh;
+}
+
+.contactContainer h4 {
+  color: white;
+  position: relative;
+  top: -10vh;
+}
+
+.contactContainer h3 {
+  position: relative;
+  color: white;
+  font-size: 2rem;
+  top: -40vh;
+}
+
+.sabkuch {
+  position: relative;
+  top: -30vh;
+}
+
+@media screen and (max-width: 768px) {
+  .contactContainer h1 {
+    font-size: 80px;
+  }
+
+  .contactContainer h3 {
+    font-size: 1.2rem;
+  }
+}

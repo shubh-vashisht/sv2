@@ -1,0 +1,86 @@
+html,
+.threeDbody {
+  height: 100vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  /* background: rgb(24, 24, 24); */
+  z-index: -1;
+  background: url("../../images/black.jpeg") center center/cover no-repeat;
+}
+
+.skillshome {
+  background: linear-gradient(rgb(78, 162, 211), #110914);
+}
+
+.tdtext {
+  height: 86vh;
+  /* display: grid; */
+  position: relative;
+  top: 65vh;
+  z-index: 1;
+  /* place-items: center;
+  align-content: center; */
+}
+
+.headingskills {
+  font: "Lucida Sans";
+  z-index: 80;
+  width: 100%;
+  text-transform: uppercase;
+  color: rgb(245, 245, 245);
+  font-size: 10rem;
+  display: block;
+  position: absolute;
+  top: 40vh;
+}
+
+.headingprojects {
+  font-size: 10rem;
+  font: "Lucida Sans";
+  z-index: 80;
+  width: 100%;
+  text-transform: uppercase;
+  color: rgb(245, 245, 245);
+
+  display: block;
+  position: absolute;
+  top: 40vh;
+}
+
+.tdtext > h1 {
+  font-size: 10rem;
+  font: "Lucida Sans";
+  z-index: 3;
+  text-transform: uppercase;
+  color: rgb(245, 245, 245);
+  opacity: 100%;
+  /* animation: color-change 5s infinite; */
+}
+
+@keyframes color-change {
+  0% {
+    color: red;
+  }
+  50% {
+    color: blue;
+  }
+  100% {
+    color: red;
+  }
+}
+.webgl {
+  position: absolute;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+@media screen and (max-width: 960px) {
+  .projhome > h1 {
+    font-size: 8vh;
+    /* margin-top: -150px; */
+  }
+  .skillshome > h1 {
+    font-size: 6rem;
+    /* margin-top: -150px; */
+  }
+}

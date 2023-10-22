@@ -1,0 +1,80 @@
+[{
+    "web": "https://surfsup-808c9.web.app/",
+    "projName": "mernstack",
+    "text": "Tourism Website",
+    "body": "Designed frontend and backend of a tourism website",
+    "link": "/projects",
+    "bg":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+    "buttonText":"Website"
+},
+{
+    "web": "https://github.com/shubh-vashisht/PySvap",
+    "projName": "pysvap",
+    "text": "Python Library",
+    "body": "Python Image Processing Library using Pillow",
+    "link": "/projects",
+    "bg":"https://wallpaperaccess.com/full/1109826.jpg",
+    "buttonText":"Github Repo"
+},
+  {
+    "web": "https://github.com/shubh-vashisht/Snake-Game",
+    "projName": "snake",
+    "text": "Snake Game",
+    "body": "Snake Game using Javascript, Html, CSS",
+    "link": "/projects",
+    "bg":"https://i.guim.co.uk/img/media/993cc4a2107b870f78d1228874906ad9646fb204/0_144_2160_1296/master/2160.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=0d412ae060f1a354261a1d6b7657c78c",
+    "buttonText":"Github Repo"
+  },
+  {
+    "web": "https://github.com/shubh-vashisht/RESTful-Api-with-MongoDB-Database",
+    "projName": "restapi",
+    "text": "RESTful API",
+    "body": "Authored a RESTful API using node.js, Express and MongoDb.",
+    "link": "/projects",
+    "bg":"https://www.customerparadigm.com/wp-content/uploads/2019/11/code-featured-splash-background-blur.jpg",
+    "buttonText":"Github Repo"
+  },
+  {
+    "web": "https://github.com/shubh-vashisht/Discord-Bot-with-Nodejs",
+    "projName": "discord",
+    "text": "Discord Bot",
+    "body": "Discord Bot that uses fetch API to provide a random anime quote to the user",
+    "link": "/projects",
+    "bg":"https://www.colorbook.io/imagecreator.php?hex=7289da&width=1920&height=1080&text=%201920x1080",
+    "buttonText":"Github Repo"
+  },
+  {
+    "web": "https://github.com/shubh-vashisht/moralfibre",
+    "projName": "moralFibre",
+    "text": "JS Library - MoralFibre",
+    "body": "JavaScript Library on NPM that provides everyday workday functions.",
+    "link": "/projects",
+    "bg":"https://htmlcolors.com/brand-image/npm.png",
+    "buttonText":"Github Repo"
+  },
+  {
+    "web": "https://github.com/shubh-vashisht/Web-Scrapping-with-Voice-Assist",
+    "projName": "pythonweb",
+    "text": "Covid-19 Web Scrapper",
+    "body": "Web Scrapper of covid-19 data using Parsehub API and voice commands",
+    "link": "/projects",
+    "bg":"https://thefilibusterblog.com/wp-content/uploads/2021/06/1794125878_50168759_prehistoire-internet.jpg",
+    "buttonText":"Github Repo"
+  },{
+     "web": "https://github.com/Ctrl-Alt-Elite-CS320",
+     "projName": "Employee Ref",
+     "text": "Employee Referral Software",
+     "body": "Software that lets employees refer each other for a position",
+     "link": "/projects",
+     "bg":"https://www.doidacrow.com/wp-content/uploads/2016/09/sep-20.jpg",
+     "buttonText":"Github Repo"
+   },
+   {
+    "inweb": true,
+     "projName": "ram ram",
+     "text": "Ram",
+     "body": "Software that lets employees refer each other for a position",
+     "link": "projects/ram",
+     "buttonText":"Github Repo"
+   }
+  ]
